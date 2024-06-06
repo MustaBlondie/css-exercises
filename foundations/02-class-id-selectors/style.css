@@ -1,0 +1,19 @@
+.p {
+    background: pink;
+    font-family:Verdana, sans-serif;
+}
+
+#two {
+    color: blue;
+    font-size: 36px;
+}
+
+.third {
+    font-size: 24px;
+}
+
+#four {
+    background: greenyellow;
+    font-weight: bold;
+    font-size: 24px;
+}
